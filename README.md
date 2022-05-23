@@ -42,4 +42,4 @@ For more details, please checkout the following website:
 
 5. Following the guide from [linaro](https://releases.linaro.org/96boards/rb5/linaro/debian/21.12/) (The **Running the Developer based image** part)
 
-![](https://i.imgur.com/QRY6DAf.png)
+![guide](https://i.imgur.com/QRY6DAf.png)
